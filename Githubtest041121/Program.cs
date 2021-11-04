@@ -2,7 +2,7 @@
 
 namespace Githubtest041121
 {
-    class Program
+    class Program // dette program tester github
     {
         static void Main(string[] args)
         {
