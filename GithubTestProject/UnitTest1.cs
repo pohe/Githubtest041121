@@ -8,6 +8,7 @@ namespace GithubTestProject
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }
